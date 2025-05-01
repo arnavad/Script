@@ -1,4 +1,4 @@
-let score = "hitesh"
+let score = "Aditya"
 
 //console.log(typeof score);
 //console.log(typeof(score));
