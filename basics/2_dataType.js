@@ -22,7 +22,7 @@ let state;
 // symbol => unique
 
 
-// objectt
+// object
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
